@@ -1,0 +1,13 @@
+{
+  "dev": {
+    "driver": "mysql",
+    "host": "127.0.0.1",
+    "port": "3306",
+    "user": "user",
+    "password": "town1234",
+    "database": "tabladb",
+    "multipleStatements": true
+  },
+  "sql-file": true,
+  "defaultEnv": "dev"
+}
